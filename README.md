@@ -56,6 +56,9 @@ npm install body-parser express pg node-oauth2-server
 
 4. Make 3 directories: auth, db and test
 
+5. Touch the `pgWrapper.js` file into the `db` folder to wrap the queries to the database.
+
+6. Add two repositories to handle the users and access tokens operations.
 
 ## Installation
 
